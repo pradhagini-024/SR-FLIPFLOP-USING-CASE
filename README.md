@@ -65,7 +65,7 @@ Developed by: Pradhagini A RegisterNumber: 212224050031
 
 ![Screenshot 2024-12-23 003444](https://github.com/user-attachments/assets/7d151188-ea8d-4a22-9fd2-b0a295423401)
 
-**TIMING DIGRAMS FOR SR FLIP FLOP**
+**TIMING DIGRAM FOR SR FLIP FLOP**
 
 ![Screenshot 2024-12-23 003617](https://github.com/user-attachments/assets/45771363-879b-4984-bdf8-df313f3724b2)
 
